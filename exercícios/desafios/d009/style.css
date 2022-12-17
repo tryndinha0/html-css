@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgba(0, 0, 0, 0.925);
+    text-align: center;
+   
+}
+
+
+
+h1 {
+
+
+    color: white ; font-size: 40px;
+}
+
+.container{
+   margin-left: 500px;
+   
+}
+#lineone {
+    display: flex;
+}
+
+#linetwo {
+    display: flex;
+}
